@@ -7,7 +7,10 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
 
-        System.out.println("Taluhan Ones- Atalay Ozkan");
+        int a=0;
+        int b=1;
+        int c=a+b;
+        System.out.println("Sum: "+c);
 
     }
 }
