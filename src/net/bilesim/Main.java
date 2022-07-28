@@ -9,8 +9,9 @@ public class Main {
 
         int a=0;
         int b=1;
-        int c=a+b;
-        System.out.println("Sum: "+c);
+
+        System.out.println("Ozgur Helva");
+       
 
     }
 }
